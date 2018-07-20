@@ -9,5 +9,5 @@ python city-match.py "some text" <number of matches>
 
 
 Credits:
-https://github.com/seatgeek/fuzzywuzzy
-https://github.com/richard512/Little-Big-Data
+- https://github.com/seatgeek/fuzzywuzzy
+- https://github.com/richard512/Little-Big-Data
